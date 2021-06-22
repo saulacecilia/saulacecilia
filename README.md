@@ -7,17 +7,14 @@ Me chamo ✨*Saula*✨ e sou estudante :woman_student: de bacharelado na [Univer
 Linguagens (de programação): Python :snake:, HTML, CSS, JavaScript; (idiomas): português :brazil: , espanhol e inglês. Experiência em sistema Linux :penguin: e Windows :desktop_computer:
 
 ⚡ Curiosidade sobre mim: amo ler! :books:
-<!--
-**saulacecilia/saulacecilia** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+:sparkling_heart::sparkling_heart::sparkling_heart::sparkling_heart:
 
--  I’m currently working on ...
--  I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--  Fun fact: ...
--->
+My name is ✨*Saula*✨ and I study :woman_student: Materials Physics at [Universidade Federal de Uberlândia (UFU)](http://www.ufu.br/).
+
+🌱 I aspire to be a front-end developer 🔭
+
+Programming languages: Python :snake:, HTML, CSS, JavaScript. I speak Portuguese, Spanish and English.
+
+⚡ A fact about me: I love reading! :books:
+
