@@ -14,7 +14,7 @@ My name is ✨*Saula*✨ and I study :woman_student: Materials Physics at [Unive
 
 🌱 I aspire to be a front-end developer 🔭
 
-Programming languages: Python :snake:, HTML, CSS, JavaScript. I speak Portuguese, Spanish and English.
+Programming languages: Python :snake:, HTML, CSS, JavaScript. I speak Portuguese, Spanish and English. Knowledge in Linux :penguin: and Windows :desktop_computer:
 
 ⚡ A fact about me: I love reading! :books:
 
