@@ -2,7 +2,7 @@
 
 Me chamo *Saula* e fui estudante de bacharelado na [Universidade Federal de Uberlândia (UFU)](http://www.ufu.br/). 
 
-Linguagens (de programação): Python, HTML, CSS, JavaScript; (idiomas): português :brazil: , espanhol e inglês. Experiência em sistema Linux e Windows.
+Linguagens (de programação): Python, HTML, CSS, JavaScript; (idiomas): português, espanhol e inglês. Experiência em sistema Linux e Windows.
 
 ⚡ Curiosidade sobre mim: amo ler! :books:
 
